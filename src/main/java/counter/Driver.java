@@ -2,9 +2,7 @@ package counter;
 
 import java.util.Scanner;
 
-/**
- * Driver class demonstrating the use of the Counter interface and WordProcessor implementation.
- */
+/**&#xA; * Driver class demonstrating the use of the Counter interface and WordProcessor implementation.&#xA; */
 public class Driver {
 
     public static void main(String[] args) {
